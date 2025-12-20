@@ -1,0 +1,5 @@
+requests
+pytz
+selenium
+webdriver-manager
+tqdm

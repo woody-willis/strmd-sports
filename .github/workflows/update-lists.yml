@@ -1,0 +1,56 @@
+name: Scrape and Commit Playlists
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+
+    services:
+      selenium:
+        image: selenium/standalone-chrome
+        options: --shm-size=2gb
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Python script
+        run: |
+          python scrape.py || exit 1  # Fail the workflow if Python script fails
+
+      - name: Squash and force push changes
+        if: success()
+        run: |
+          # Setting up git config
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+          # Reset to the first commit
+          FIRST_COMMIT=$(git rev-list --max-parents=0 HEAD)
+          git reset --soft $FIRST_COMMIT
+
+          # Add all changes and create a single new commit
+          git add playlists/
+          git commit -m "chore: update playlists" || echo "No changes to commit"
+
+          # Force push to the main branch
+          git push -f origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

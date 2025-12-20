@@ -1,0 +1,2028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="62ec771a2e69b349c8c7b8c899e50893">
+    <display-name>Perth Heat vs Brisbane Bandits - 11:00 AM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/baseball.png?raw=true" />
+  </channel>
+  <channel id="f45fd137000eb36c74963ea3657cea37">
+    <display-name>Antwerpen UCI Cyclo Cross World Championships: Women&apos;s Elite - 12:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/sports.png" />
+  </channel>
+  <channel id="888442c94ffc506378a2ba1cf945845a">
+    <display-name>World Championships: Day Ten - 12:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/darts.PNG?raw=true" />
+  </channel>
+  <channel id="d8b2d09b03681686ca2e5de0501770ca">
+    <display-name>World Darts Championship - 12:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/darts.PNG?raw=true" />
+  </channel>
+  <channel id="020ea42d58b5916ede7e52f7ba022263">
+    <display-name>Wigan Athletic vs Blackpool - 12:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="a99eed168b81acd71bd438179321c92f">
+    <display-name>Bromley vs Grimsby Town - 12:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="c0d6c0e0c0b20d694472f80cf3a6d0b5">
+    <display-name>Southampton vs Coventry City - 12:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="2e7d271134269c441d4f314087a793ee">
+    <display-name>Newcastle United vs Chelsea - 12:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="a1d0d69cd7f558b58cb60578d03f0d2e">
+    <display-name>Notts County vs Walsall - 12:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="47ac1f7d177d972709c1a41afd69bad9">
+    <display-name>Preston North End vs Norwich City - 12:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="9368a9d279902a392641640d97edadaf">
+    <display-name>Nürnberg vs Union Berlin W - 01:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="2b3eb5cffc1b3b22291e8b1def76d557">
+    <display-name>Snooker Scottish Open 🎱 - 01:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/sports.png" />
+  </channel>
+  <channel id="7a250daf399a02c85e9adfc443c8dafc">
+    <display-name>Rot-Weiß Essen vs SSV Ulm 1846 - 01:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="2219e4417d06afe9b9b2331d910fdc01">
+    <display-name>Riyadh Season Horse Racing: Saeed Al Majed Cup Race Night - 01:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/sports.png" />
+  </channel>
+  <channel id="6026e503e5b15b22e408ed0978a3f8b3">
+    <display-name>3. Liga: Hansa Rostock vs FC Saarbrucken - 01:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="49b941d5f0937c633b33386e8556265c">
+    <display-name>FC Andorra vs Deportivo de La Coruña - 01:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="e60fb0b29b7456f0a298a020f8785e8b">
+    <display-name>Waldhof Mannheim vs Ingolstadt - 01:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="0f9de8a9a788765756461722acf2322a">
+    <display-name>Real Oviedo vs Celta Vigo - 01:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="6b29e437f5831839408a5a6e90578877">
+    <display-name>Erzgebirge Aue vs FC Schweinfurt - 01:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="b2ef5cc3afd053dc9aca55ec4966deaa">
+    <display-name>Osnabrück vs Stuttgart II - 01:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="7baf301d443676a73d6af40e3768ed58">
+    <display-name>Hansa Rostock vs FC Saarbrücken - 01:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="110643b4050e61ec8dd704f5b1ebe799">
+    <display-name>Süper Lig: Eyupspor vs Fenerbahce - 02:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="c0347242d45a119aafc23dc4f22b280c">
+    <display-name>Monza vs Carrarese - 02:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="7a18c2e92f6473b118d5bdac693a728d">
+    <display-name>Eyüpspor vs Fenerbahçe - 02:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="9c3033480c0ac8414e303cf5b7a1705d">
+    <display-name>Frosinone vs Spezia - 02:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="e1882e247d6e3fc0c2e38a04b4abe24c">
+    <display-name>Asteras Tripolis vs Aris - 02:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="9c80d78fd6d1c2608162cb89a8ac594f">
+    <display-name>Bundesliga Saturday Multiview ⚽ 🔥 ⭐ - 02:20 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="b984e7361a8cbe695d5c8fd7e766502a">
+    <display-name>Goal Arena - 02:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="6be5f305b2b3ba22a0b8badd95af2ce2">
+    <display-name>Stuttgart vs Hoffenheim - 02:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="e1d4d4099c86da1dfcf1fdd260d6ba43">
+    <display-name>Wolfsburg vs Freiburg - 02:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="80a56226bb8770870f352d7270f2f0ca">
+    <display-name>FC Köln vs Union Berlin - 02:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="c152d0613547dc8dd966f91e9d5485ef">
+    <display-name>FC Augsburg vs Werder Bremen - 02:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="cbc4505af9167cd112148567a369eea8">
+    <display-name>Hamburg vs Eintracht Frankfurt - 02:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="25493f497a907b800e2f5b73ba20edd0">
+    <display-name>Desert Vipers vs Sharjah Warriorz - 02:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/cricket.png?raw=true" />
+  </channel>
+  <channel id="54079a3d27b41bde6c2af10c747a2536">
+    <display-name>Sheffield Utd vs Birmingham - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="d9fcc5fde415ba3bcd07af1dfd2aae70">
+    <display-name>Riyadh Season WBC Boxing Grand Prix: WBC Boxing Grand Prix: Finals - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/fighting.png" />
+  </channel>
+  <channel id="4c7f652d7ed1ac551ec5562c022bfb95">
+    <display-name>Premier League: Wolves vs Brentford - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="d8110539116ad58bc0509cb16917e89d">
+    <display-name>Championship: QPR vs Leicester - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="d99d0d4f2fd44bc87d4d6ce4252e6b6e">
+    <display-name>Premier League: Manchester City vs West Ham - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="eeecf388a18d406be6008aea7e9c241c">
+    <display-name>Goal Rush - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="40e0efe28037c0efbad88114ebbb20d0">
+    <display-name>Derby County vs Portsmouth - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="47b940b5fc812e122c10fb6e852df2d4">
+    <display-name>Watford vs Stoke City - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="a6e22207bff8a5fbc27e0cbad86a2c26">
+    <display-name>Ipswich Town vs Sheffield Wednesday - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="cd5b41900c19df1f6492dfdb03e547a8">
+    <display-name>Bristol City vs Middlesbrough - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="80781fb23cbed022da0fe1b9cef36c8d">
+    <display-name>Doncaster Rovers vs Plymouth Argyle - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="cfd42b2f928fa64bfc57b6de64e65410">
+    <display-name>Brighton and Hove Albion vs Sunderland - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="93924f01f7f87e28aada79bd3ad19167">
+    <display-name>Hull City vs West Bromwich Albion - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="989e9340ffb66180004a1b43f3177667">
+    <display-name>Wolverhampton Wanderers vs Brentford - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="587ef627397a95898f3878f317ffc213">
+    <display-name>Harrogate Town vs Milton Keynes Dons - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="d157ff4128b92f85978f75db9b0da84d">
+    <display-name>Mansfield Town vs Stockport County - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="0223fc9415697f6dda1355dfc2e579b3">
+    <display-name>FC United of Manchester vs Lancaster City - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="2294e1cb7da0f2bfb71ce7d8bc0431ff">
+    <display-name>Lincoln City vs Cardiff City - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="303ba2bec5b70cd62082007a5b04ebee">
+    <display-name>Swindon Town vs Crawley Town - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="96cb211d02f217bb9d711ae8a746f778">
+    <display-name>Wycombe Wanderers vs Bolton Wanderers - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="8ea12f7068cd0143347f1a9318cc293b">
+    <display-name>Shrewsbury Town vs Chesterfield - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="4915abf874fc7ab4d0f1f9314d0a8a3e">
+    <display-name>Port Vale vs Peterborough United - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="908fb8acbe18a7b9f6128ab8cd0e37b0">
+    <display-name>Fleetwood Town vs Gillingham - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="b6b48a5a0f600b7d90230a31e4d4e0c7">
+    <display-name>Leyton Orient vs Bradford City - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="7e366e3131334da732204e671f212f15">
+    <display-name>Exeter City vs Barnsley - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="e118e3c95145f2d1dcd3eac3ccec5abb">
+    <display-name>Bournemouth vs Burnley - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="42d3fcfadac677ccc7fa18004024bd9b">
+    <display-name>Rotherham United vs Huddersfield Town - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="21e7dbf062cb7550551d58ef65428e3d">
+    <display-name>Oldham Athletic vs Tranmere Rovers - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="cac9dc0abcf10b0d0d6c365412341e59">
+    <display-name>Colchester United vs Newport County - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="7b49edfe51695457f702734fa96a66de">
+    <display-name>Charlton Athletic vs Oxford United - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="45fa6d94bf38b0270c244b3dae1dd50b">
+    <display-name>Saracens vs Exeter Chiefs - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/rugby.png?raw=true" />
+  </channel>
+  <channel id="b09d74d2d3768e88f9294a4c2f1cab6b">
+    <display-name>Northampton Saints vs Sale Sharks - 03:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/rugby.png?raw=true" />
+  </channel>
+  <channel id="e088121ad4cdcde18f89dc38b01d05fd">
+    <display-name>Huesca vs Racing de Santander - 03:15 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="d13122d296469f806629347d21264be9">
+    <display-name>Levante vs Real Sociedad - 03:15 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="363c071e74d64e464d97e7111d7f53de">
+    <display-name>Segunda Liga: Feirense vs Pacos Ferreira - 03:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="237a1627890c161bc4e292c887223215">
+    <display-name>Segunda Liga: Vizela vs Academico Viseu - 03:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="c552465be87e8ecb1fccd0ab07e5239d">
+    <display-name>1860 Munich vs Verl - 03:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="5d663125830dda7cc6ac1bd8423ffd7a">
+    <display-name>Heracles Almelo vs Heerenveen - 03:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="8f4054f17e06c09a3232a0c55a3b3891">
+    <display-name>Texas A&amp;M Aggies vs Miami Hurricanes - 04:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="f34310303d4dc3fe113086b43ec21471">
+    <display-name>Next Gen ATP Finals: Day 4 Match 1 - 04:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/tennis.png?raw=true" />
+  </channel>
+  <channel id="b5f2391e23a628632110ed3c7ac74f84">
+    <display-name>Volos vs Panetolikos - 04:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="f0b3bb14bde4f98f9a541f23d54ab959">
+    <display-name>Avellino vs Palermo - 04:15 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="b4a97a3454636af5f25e268bb10b0a8d">
+    <display-name>Callum Simpson vs Troy Williamson - 05:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/fighting.png" />
+  </channel>
+  <channel id="8aa4138d1bd4e892b2e946b3b7ce227d">
+    <display-name>UW-River Falls Falcons vs Johns Hopkins Blue Jays - 05:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="698be7341abd7c78077c8ed21514cdce">
+    <display-name>Süper Lig: Besiktas vs Rizespor - 05:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="feec4fe82d3373036c8bde1373f9b46d">
+    <display-name>#10 Miami vs. #7 Texas A&amp;M (First Round) - 05:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="e8936cce7096866c0b7ce8b1275911f7">
+    <display-name>Lyon - La Duchère vs Toulouse - 05:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="90d85d546f00da5c5e181cb35b1ffb72">
+    <display-name>Lazio vs Cremonese - 05:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="de9e207ee5433180aab885f6e1b15f8c">
+    <display-name>Beşiktaş vs Rizespor - 05:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="9cebf04920b4bb727409c26e278a2751">
+    <display-name>Leganes vs Sporting Gijon - 05:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="6461ab35741654e4c68ff0ed67a6f23c">
+    <display-name>La Liga: Osasuna vs Alaves - 05:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="13aaab82f8a8c3f48e3e123578d2d3ca">
+    <display-name>Tottenham Hotspur vs Liverpool - 05:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="7ce12fc542b2d92d0a11de6f01ea9951">
+    <display-name>RB Leipzig vs Bayer Leverkusen - 05:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="9fea7f08c59b9c5f74893dae0008a6a9">
+    <display-name>Osasuna vs Deportivo Alavés - 05:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="1e1a5bf046c0f3bb2f80059c0befeac4">
+    <display-name>New York Rangers vs Philadelphia Flyers - 05:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="4fc32bc71bcffec5f9ff9e28abb794ff">
+    <display-name>Washington Capitals vs Detroit Red Wings - 05:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="0c59ff5d012520436796dd013b81ec7d">
+    <display-name>Excelsior vs PEC Zwolle - 05:45 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="1178c9678aaa5f36eb3ebce550541940">
+    <display-name>PNC Championship | PGA Tour - 06:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/sports.png" />
+  </channel>
+  <channel id="a451827f1534c0038863802f00ee8ce1">
+    <display-name>PNC Championship: Day 1 - 06:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/golf.png?raw=true" />
+  </channel>
+  <channel id="f4b6cb22672ff1fbe1843dd842705eb1">
+    <display-name>Misfits Mania: Andrew Tate vs. Chase DeMoor - 06:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/fighting.png" />
+  </channel>
+  <channel id="e020ff746d14b0b0e1603db59a0c6340">
+    <display-name>Gil Vicente vs Rio Ave - 06:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="84c3409f9276e3c56cac332c8cfc15be">
+    <display-name>Harlequins vs Bristol Bears - 06:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/rugby.png?raw=true" />
+  </channel>
+  <channel id="176dec43f13ec88019d402838f6ae839">
+    <display-name>Capitanes de Ciudad de México vs Long Island Nets - 06:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="57774abefd182f4eb6282810162d3d9c">
+    <display-name>Pescara vs Reggiana - 06:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="f9c753f7d90ac13ddf2ab2e335fa1bbf">
+    <display-name>Legacy Sports Matchroom: Richards vs Azeez - 07:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/fighting.png" />
+  </channel>
+  <channel id="b362064688a778cf26ff79ede3c38eca">
+    <display-name>USL Super League: Carolina Ascent W vs DC Power W - 07:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="b5a3e15ec6ca68a3fcd0af63399e8497">
+    <display-name>NEC Nijmegen vs Ajax - 07:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="eb324408bb6cc44d3d8d616628fd7025">
+    <display-name>Holstein Kiel vs Dynamo Dresden - 07:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="a04f25b288fac8a5dcac3143d6121d14">
+    <display-name>AEW: Saturday Night Collision - 07:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/fighting.png" />
+  </channel>
+  <channel id="8b2e44965f0b2c0c73de9db0aeab38f2">
+    <display-name>Juventus vs Roma - 07:45 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="29b79f057d9771eb6658f3f313c7d115">
+    <display-name>Horse Racing: America&apos;s Day At the Races - 08:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/sports.png" />
+  </channel>
+  <channel id="7ba600be2fcfbc84787ba4906d66aca5">
+    <display-name>Vendée Fontenay Foot vs Paris SG - 08:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="c4bd9f269eee95714f516dad3da02859">
+    <display-name>Leeds United vs Crystal Palace - 08:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="7bf7c0f4b1e21bfb7a6149d58b04546c">
+    <display-name>Everton vs Arsenal - 08:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="a146e229cbfc2d42b3145e56378fe5da">
+    <display-name>Las Palmas vs Cultural Leonesa - 08:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="bc5534ca454f6dacda8e7bcca48b4acd">
+    <display-name>Real Madrid vs Sevilla - 08:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="a879d60f7ab2cd8aa45388bc03f84b33">
+    <display-name>Minnesota Wild vs Edmonton Oilers - 08:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="17a6dfa3baa0e46efcb59fbbe7e23936">
+    <display-name>NAC Breda vs SC Telstar - 08:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="d060e54d8168e202d8c92f4761d0b387">
+    <display-name>Ottawa Senators vs Chicago Blackhawks - 08:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="0e5cf32ba0d1e5dbb9a9a058b5915c26">
+    <display-name>Estrela Amadora vs Moreirense - 08:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="4a06cbc927d22c10ed5710eadf855ea7">
+    <display-name>Oklahoma City Blue vs Capital City Go-Go - 08:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="04de551d69983c600ec7172a6b32e2e4">
+    <display-name>Ole Miss vs Tulane - 08:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="88494adbc3da6d8f7407ebb01075d690">
+    <display-name>West Indies tour of New Zealand: New Zealand vs West Indies - 10:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/cricket.png?raw=true" />
+  </channel>
+  <channel id="f5dd8c88d0a816dc292d2f71889d522e">
+    <display-name>Buffalo Sabres vs New York Islanders - 10:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="fe92c4c3dbb202e7921fae175a17e878">
+    <display-name>Washington Commanders vs Philadelphia Eagles - 10:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="d5f496fbeaa44b9ee3a269969afa3b00">
+    <display-name>Denver Nuggets vs Houston Rockets - 10:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="8b4dd91784f4ab260d72f4a0e7fdac7c">
+    <display-name>BKFC Fight Night Mohegan Sun: Prelims - 11:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/sports.png" />
+  </channel>
+  <channel id="ef44df17046817f3cff128cb6ace778f">
+    <display-name>Florida Panthers vs St. Louis Blues - 11:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="b730e2d23ffc0606cb57a1186f538d08">
+    <display-name>Windy City Bulls vs Memphis Hustle - 11:00 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="51c4b81422ae20a06618484190f0c041">
+    <display-name>Australia vs. England - 11:30 PM GMT - (20/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/cricket.png?raw=true" />
+  </channel>
+  <channel id="8f7f21a55b4fed3f3de151545524c5d3">
+    <display-name>Nashville Predators vs Toronto Maple Leafs - 12:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="890226fc041ee6ac00d78f5eabb24474">
+    <display-name>Tampa Bay Lightning vs Carolina Hurricanes - 12:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="bf44e80cd86f7f6e05effe6171d851ab">
+    <display-name>Montreal Canadiens vs Pittsburgh Penguins - 12:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="12f2a378e10328295a2929f02bb355d6">
+    <display-name>Boston Bruins vs Vancouver Canucks - 12:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="64ad54f24c2f7360adef8675a4b1ed6e">
+    <display-name>New Orleans Pelicans vs Indiana Pacers - 12:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="1eed5036563dc72c703b9513eaf093dd">
+    <display-name>Toronto Raptors vs Boston Celtics - 12:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="1616154b3ac2791717e6147a4ca1e64d">
+    <display-name>Philadelphia 76ers vs Dallas Mavericks - 12:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="375730ab1a8cc1f19257a3d0864838b8">
+    <display-name>#12 JMU vs. #5 Oregon (First Round) - 12:30 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="9d6eb84c835bef0247740a84c5e73f47">
+    <display-name>Detroit Pistons vs Charlotte Hornets - 12:30 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="6a560d062b83ef6718fb9be3f424e716">
+    <display-name>Memphis Grizzlies vs Washington Wizards - 01:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="7942b7aa30d6211283015b04fe44caf2">
+    <display-name>Salita Promotions: Curry vs. Scott 2 - 01:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/fighting.png" />
+  </channel>
+  <channel id="f1ac19b4f11f73e40e76de1dedd450d7">
+    <display-name>Chicago Bears vs Green Bay Packers - 01:20 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="91662cc00aa9a5068f90c373b729475a">
+    <display-name>Golden State Warriors vs Phoenix Suns - 01:30 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="c7ebd48f75bfa4677fd11a95e1367903">
+    <display-name>Valley Suns vs Motor City Cruise - 01:30 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="d01822a2d0d5809f6802a0384859b36c">
+    <display-name>MMA: CAGE FURY FC 149 - 02:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/fighting.png" />
+  </channel>
+  <channel id="3832b8d33401028754b41934e773d52b">
+    <display-name>Utah Jazz vs Orlando Magic - 02:30 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="3c675ca6231a9825c6279226586fbfa1">
+    <display-name>San Jose Sharks vs Seattle Kraken - 03:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="662d62e0a72dce9b364297e0ad9437a8">
+    <display-name>Calgary Flames vs Vegas Golden Knights - 03:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="c46b0bd7b3e31dedadb9d9b61cde6c77">
+    <display-name>Anaheim Ducks vs Columbus Blue Jackets - 03:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="c62d5407b315bd4cd6071d3aa5ffe6f7">
+    <display-name>Sacramento Kings vs Portland Trail Blazers - 03:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="4382e6ecc63e152143741e4e87a2d901">
+    <display-name>Los Angeles Clippers vs Los Angeles Lakers - 03:30 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="2836132236d2c852b5ce5e1ec1052333">
+    <display-name>Gran Turismo World Series: Fukuoka | Nations Cup Show - 06:30 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/motor.png?raw=true" />
+  </channel>
+  <channel id="70aa9c1710c6a2be86f61e5ba4eacd44">
+    <display-name>Melbourne Renegades vs Hobart Hurricanes - 08:15 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/cricket.png?raw=true" />
+  </channel>
+  <channel id="7845b1ea760485e6a33a4a522a1ccab0">
+    <display-name>Dubai Capitals vs Gulf Giants - 10:00 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/cricket.png?raw=true" />
+  </channel>
+  <channel id="c4e38ff164e48265d7a62acd0c631ddf">
+    <display-name>Cagliari vs Pisa - 11:30 AM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="966cca13f7f812f57357858e3b84fe8d">
+    <display-name>World Championships: Day Eleven - 12:30 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/darts.PNG?raw=true" />
+  </channel>
+  <channel id="e6a7686a82e05806377d65580c505ba7">
+    <display-name>Girona vs Atlético Madrid - 01:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="a50489fee24612ddfa3151df68ce7e59">
+    <display-name>Sassuolo vs Torino - 02:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="917dc142254ff01798a998f1b5b88718">
+    <display-name>Mainz vs St Pauli - 02:30 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="8a6efad29384058142bd51e926401849">
+    <display-name>Desert Vipers vs MI Emirates - 02:30 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/cricket.png?raw=true" />
+  </channel>
+  <channel id="39b2ca6b76a98b8307d6266e58e10754">
+    <display-name>PREM Rugby: Newcastle Falcons vs Bath Rugby - 03:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/rugby.png?raw=true" />
+  </channel>
+  <channel id="eb4ea726b74378be31ebfe6c711cbe00">
+    <display-name>Manchester Basketball vs Surrey 89ers - 03:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="e79a15b8f929edc524f49e63db807f95">
+    <display-name>Villarreal vs Barcelona - 03:15 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="e6dab0737a41e0bced85fbac8e7fb2df">
+    <display-name>FC Heidenheim vs Bayern Munich - 04:30 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="3579bcd2ba496cb3db9ad541c7322c33">
+    <display-name>Aston Villa vs Manchester United - 04:30 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="bccabf4ff25a0f2ac1c7154ffea24489">
+    <display-name>Next Gen ATP Finals: Day 5 - 05:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/tennis.png?raw=true" />
+  </channel>
+  <channel id="e9dff10b837e8ee201a345d0a76196af">
+    <display-name>Fiorentina vs Udinese - 05:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="53bd984cf878aa6292fa7c9ba83310f4">
+    <display-name>Caledonia Gladiators vs London Lions - 05:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="703bbaa593e0f2d9a3c612b36af10413">
+    <display-name>PNC Championship: Day 2 - 05:30 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/golf.png?raw=true" />
+  </channel>
+  <channel id="7b37df74a5b3b029ab8aa5a50423d44c">
+    <display-name>Elche vs Rayo Vallecano - 05:30 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="f500f39b02ba640774c013304c40b0eb">
+    <display-name>NBA G League: TBA vs TBA - 06:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="a494b9c47f98c431c57e633fc6fd468e">
+    <display-name>Detroit Red Wings vs Washington Capitals - 06:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="af774df10b37530c06741383c2c1841e">
+    <display-name>New Orleans Saints vs New York Jets - 06:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="eac8ca338c3d28a62f607e8bdad6609a">
+    <display-name>Carolina Panthers vs Tampa Bay Buccaneers - 06:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="37713168ea658da978db8d6f21df8734">
+    <display-name>New York Giants vs Minnesota Vikings - 06:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="77f550d890056eeb784463910dc1c9dc">
+    <display-name>Dallas Cowboys vs Los Angeles Chargers - 06:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="64d8b1e2044bea9775ac6c68e2a0ffe4">
+    <display-name>Tennessee Titans vs Kansas City Chiefs - 06:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="03375a733f482bf79bb4275ae013c6b9">
+    <display-name>Cleveland Browns vs Buffalo Bills - 06:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="66214179517fb94655eb75d0e43fdcf0">
+    <display-name>Miami Dolphins vs Cincinnati Bengals - 06:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="4d29fb7e51522137268a7434e8a89bc8">
+    <display-name>Genoa vs Atalanta - 07:45 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="dbc78be481919addeb4afb6d9e4be38e">
+    <display-name>Real Betis vs Getafe - 08:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="695d5a55c977479672670793ed7acac1">
+    <display-name>Atlanta Hawks vs Chicago Bulls - 08:30 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="ac5102c76865d4da3699182c76699c9f">
+    <display-name>Arizona Cardinals vs Atlanta Falcons - 09:05 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="2629a389b4629fd007f58c4b7801c3fc">
+    <display-name>Denver Broncos vs Jacksonville Jaguars - 09:05 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="e0fb50d53610fa17c0e916c19a13ab63">
+    <display-name>Detroit Lions vs Pittsburgh Steelers - 09:25 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="aab2c4fc5f55fac532555b0b704e680c">
+    <display-name>Houston Texans vs Las Vegas Raiders - 09:25 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="3bc67aa4fd650691d6cacafce6972e97">
+    <display-name>Horse Racing: America&apos;s Day At the Races - 09:30 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/sports.png" />
+  </channel>
+  <channel id="34155cb729a782e036147e55cb1aa8c1">
+    <display-name>West Indies tour of New Zealand: New Zealand vs West Indies - 10:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/cricket.png?raw=true" />
+  </channel>
+  <channel id="d790c400f9673384b487568535060190">
+    <display-name>Minnesota Wild vs Colorado Avalanche - 11:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="9309e9a35940ae72e8c32ccda1116672">
+    <display-name>South Bay Lakers vs Wisconsin Herd - 11:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="b492bbe0a4875a9956c8d835607d04de">
+    <display-name>New York Knicks vs Miami Heat - 11:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="e21c2876278771e4dc01a92ae7520d99">
+    <display-name>Brooklyn Nets vs Toronto Raptors - 11:00 PM GMT - (21/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="6e879f28deb949a7063e504140135c62">
+    <display-name>NHL: Montreal Canadiens vs Pittsburgh Penguins - 12:00 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="3ea2a3b792f7cecc06ca933b4c8bfbf9">
+    <display-name>NHL: Ottawa Senators vs Boston Bruins - 12:00 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="0f420d075869b4780b7234f62544ff0d">
+    <display-name>NHL: Buffalo Sabres vs New Jersey Devils - 12:00 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="10c0910e1ca0b1174654ebefac3f0731">
+    <display-name>NHL: New York Rangers vs Nashville Predators - 12:00 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="4a84487bcce95382d622aced8dcac7ec">
+    <display-name>NHL: Toronto Maple Leafs vs Dallas Stars - 12:00 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="1eb5267c1969dd3e826250ad7ce7ffcd">
+    <display-name>NHL: Winnipeg Jets vs Utah Mammoth - 12:00 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="3c4f9c5b8546cd130870176378526a65">
+    <display-name>NBA: Milwaukee Bucks vs Minnesota Timberwolves - 12:00 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="69df072ac6a79355342105a7c5532bcd">
+    <display-name>NBA: San Antonio Spurs vs Washington Wizards - 12:00 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="3edb8d0c1a19d398b3ffa790a42bdf67">
+    <display-name>NHL: Vegas Golden Knights vs Edmonton Oilers - 01:00 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="2af3f32edb29b3d3f31d2803e636842a">
+    <display-name>New England Patriots vs. Baltimore Ravens - 01:20 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="05c0582ecccfaf964fc296b2277fa315">
+    <display-name>NBA G League: Delaware Blue Coats vs Texas Legends - 01:30 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="1000bfcb551644379b4338510c548955">
+    <display-name>NBA: Houston Rockets vs Sacramento Kings - 03:00 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="d36fc0218757784ee1292d5ac01e208b">
+    <display-name>Men&apos;s Big Bash League: Sydney Thunder vs Brisbane Heat - 08:15 AM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/cricket.png?raw=true" />
+  </channel>
+  <channel id="71f20fcfba182e355e4fbc295dee9cbe">
+    <display-name>World Championships: Day Twelve - 12:30 PM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/darts.PNG?raw=true" />
+  </channel>
+  <channel id="34dd2bffdc3c013a323428192ad4e61c">
+    <display-name>IL T20: Knight Riders vs Warriorz - 02:30 PM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/cricket.png?raw=true" />
+  </channel>
+  <channel id="f512117cd1e08d80d6b7fad392896ed2">
+    <display-name>NBA G League: Motor City Cruise vs College Park Skyhawks - 04:00 PM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="3a7e9f7ccf7326d431ab16f2ca1a785a">
+    <display-name>NBA G League: Oklahoma City Blue vs Long Island Nets - 06:30 PM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="6adb11edf8cd6de85c3f25492055daf9">
+    <display-name>Fulham vs. Nottingham Forest - 08:00 PM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="14e51ce137719927dcc02c027680ed96">
+    <display-name>Athletic Club vs. Espanyol - 08:00 PM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/football.png?raw=true" />
+  </channel>
+  <channel id="f18aeb1d330e3705814c56cfda4bb5fe">
+    <display-name>NBA G League: Mexico City Capitanes vs Osceola Magic - 09:00 PM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="a23e8ad3c93131aeddecd58ce5ab3c8a">
+    <display-name>NBA G League: TBA vs TBA - 11:30 PM GMT - (22/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="4708150eb9f46bf57dc66a40d6920dd8">
+    <display-name>NHL: St. Louis Blues vs Tampa Bay Lightning - 12:00 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="3e00b90baab0a06ec797be25973bd161">
+    <display-name>NBA: Charlotte Hornets vs Cleveland Cavaliers - 12:00 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="a75817ba3458d9d12e7649ce70f6ee9f">
+    <display-name>NHL: Vancouver Canucks vs Philadelphia Flyers - 12:30 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="fb7b70378d786967bbcf24751fc3d211">
+    <display-name>NBA: Indiana Pacers vs Boston Celtics - 12:30 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="cb5e3426cce75198beb71479992ab820">
+    <display-name>NBA: Dallas Mavericks vs New Orleans Pelicans - 01:00 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="1a22ae14ebfb739990a3cb785a90b6a4">
+    <display-name>San Francisco 49ers vs. Indianapolis Colts - 01:15 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/am-football.png?raw=true" />
+  </channel>
+  <channel id="f4a98d904b505c48af590e735e4d9607">
+    <display-name>NBA: Utah Jazz vs Denver Nuggets - 02:00 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="d95269bcd5a4c3b7053951ca47c7c09f">
+    <display-name>Cambodia tour of Indonesia: Indonesia vs Cambodia - 02:30 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/cricket.png?raw=true" />
+  </channel>
+  <channel id="5187221028a0cd589ca9e05953f38897">
+    <display-name>NBA: Memphis Grizzlies vs Oklahoma City Thunder - 02:30 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="d5665cdb607ac0621752a377c729676a">
+    <display-name>NHL: Columbus Blue Jackets vs Los Angeles Kings - 03:00 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="c5b2532206e177b94f195e2ee1e5e91a">
+    <display-name>NBA: Detroit Pistons vs Portland Trail Blazers - 03:00 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="64e065b9a1051ccd91495985d2f120b7">
+    <display-name>NBA: Orlando Magic vs Golden State Warriors - 03:00 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/basketball.png?raw=true" />
+  </channel>
+  <channel id="51733b66dc5e5d9e4ebe0ed75bf76e3d">
+    <display-name>NHL: Seattle Kraken vs Anaheim Ducks - 03:00 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/hockey.png?raw=true" />
+  </channel>
+  <channel id="d3878c3746c03744493d012355f8676d">
+    <display-name>Myanmar tour of Bhutan: Bhutan vs Myanmar - 04:00 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/cricket.png?raw=true" />
+  </channel>
+  <channel id="c8f0322892d4e1c5014df29327a1f5d5">
+    <display-name>Men&apos;s Big Bash League: Adelaide Strikers vs Melbourne Stars - 08:15 AM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/cricket.png?raw=true" />
+  </channel>
+  <channel id="350dfc270e182c9a7f78e2af91114979">
+    <display-name>THE RING V: NIGHT OF THE SAMURAI: Grand Arrival - 12:00 PM GMT - (23/12/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/fighting.png" />
+  </channel>
+  <channel id="4f84bfc48b6d2ec01c5c01a15b5df824">
+    <display-name>World Championships: Day Thirteen - 12:30 PM GMT - (23/12/2025)</display-name>
+    <icon src="https://github.com/woody-willis/strmd-sports/blob/main/images/darts.PNG?raw=true" />
+  </channel>
+  <channel id="c2923788da4871c4ea6b93951a905318">
+    <display-name>UFC 324: Gaethje vs. Pimblett - 12:00 AM GMT - (25/01/2026)</display-name>
+    <icon src="https://raw.githubusercontent.com/woody-willis/strmd-sports/main/images/fighting.png" />
+  </channel>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="62ec771a2e69b349c8c7b8c899e50893">
+    <title>Perth Heat vs Brisbane Bandits - 11:00 AM GMT - (20/12/2025)</title>
+    <desc>03:00 AM PST / 04:00 AM MST / 06:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="f45fd137000eb36c74963ea3657cea37">
+    <title>Antwerpen UCI Cyclo Cross World Championships: Women&apos;s Elite - 12:30 PM GMT - (20/12/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">other</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="888442c94ffc506378a2ba1cf945845a">
+    <title>World Championships: Day Ten - 12:30 PM GMT - (20/12/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d8b2d09b03681686ca2e5de0501770ca">
+    <title>World Darts Championship - 12:30 PM GMT - (20/12/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="020ea42d58b5916ede7e52f7ba022263">
+    <title>Wigan Athletic vs Blackpool - 12:30 PM GMT - (20/12/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="a99eed168b81acd71bd438179321c92f">
+    <title>Bromley vs Grimsby Town - 12:30 PM GMT - (20/12/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="c0d6c0e0c0b20d694472f80cf3a6d0b5">
+    <title>Southampton vs Coventry City - 12:30 PM GMT - (20/12/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="2e7d271134269c441d4f314087a793ee">
+    <title>Newcastle United vs Chelsea - 12:30 PM GMT - (20/12/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="a1d0d69cd7f558b58cb60578d03f0d2e">
+    <title>Notts County vs Walsall - 12:30 PM GMT - (20/12/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="47ac1f7d177d972709c1a41afd69bad9">
+    <title>Preston North End vs Norwich City - 12:30 PM GMT - (20/12/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="9368a9d279902a392641640d97edadaf">
+    <title>Nürnberg vs Union Berlin W - 01:00 PM GMT - (20/12/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="2b3eb5cffc1b3b22291e8b1def76d557">
+    <title>Snooker Scottish Open 🎱 - 01:00 PM GMT - (20/12/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">other</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="7a250daf399a02c85e9adfc443c8dafc">
+    <title>Rot-Weiß Essen vs SSV Ulm 1846 - 01:00 PM GMT - (20/12/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="2219e4417d06afe9b9b2331d910fdc01">
+    <title>Riyadh Season Horse Racing: Saeed Al Majed Cup Race Night - 01:00 PM GMT - (20/12/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">other</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="6026e503e5b15b22e408ed0978a3f8b3">
+    <title>3. Liga: Hansa Rostock vs FC Saarbrucken - 01:00 PM GMT - (20/12/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="49b941d5f0937c633b33386e8556265c">
+    <title>FC Andorra vs Deportivo de La Coruña - 01:00 PM GMT - (20/12/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e60fb0b29b7456f0a298a020f8785e8b">
+    <title>Waldhof Mannheim vs Ingolstadt - 01:00 PM GMT - (20/12/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="0f9de8a9a788765756461722acf2322a">
+    <title>Real Oviedo vs Celta Vigo - 01:00 PM GMT - (20/12/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="6b29e437f5831839408a5a6e90578877">
+    <title>Erzgebirge Aue vs FC Schweinfurt - 01:00 PM GMT - (20/12/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="b2ef5cc3afd053dc9aca55ec4966deaa">
+    <title>Osnabrück vs Stuttgart II - 01:00 PM GMT - (20/12/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="7baf301d443676a73d6af40e3768ed58">
+    <title>Hansa Rostock vs FC Saarbrücken - 01:00 PM GMT - (20/12/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="110643b4050e61ec8dd704f5b1ebe799">
+    <title>Süper Lig: Eyupspor vs Fenerbahce - 02:00 PM GMT - (20/12/2025)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="c0347242d45a119aafc23dc4f22b280c">
+    <title>Monza vs Carrarese - 02:00 PM GMT - (20/12/2025)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="7a18c2e92f6473b118d5bdac693a728d">
+    <title>Eyüpspor vs Fenerbahçe - 02:00 PM GMT - (20/12/2025)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="9c3033480c0ac8414e303cf5b7a1705d">
+    <title>Frosinone vs Spezia - 02:00 PM GMT - (20/12/2025)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e1882e247d6e3fc0c2e38a04b4abe24c">
+    <title>Asteras Tripolis vs Aris - 02:00 PM GMT - (20/12/2025)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="9c80d78fd6d1c2608162cb89a8ac594f">
+    <title>Bundesliga Saturday Multiview ⚽ 🔥 ⭐ - 02:20 PM GMT - (20/12/2025)</title>
+    <desc>06:20 AM PST / 07:20 AM MST / 09:20 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="b984e7361a8cbe695d5c8fd7e766502a">
+    <title>Goal Arena - 02:30 PM GMT - (20/12/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="6be5f305b2b3ba22a0b8badd95af2ce2">
+    <title>Stuttgart vs Hoffenheim - 02:30 PM GMT - (20/12/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e1d4d4099c86da1dfcf1fdd260d6ba43">
+    <title>Wolfsburg vs Freiburg - 02:30 PM GMT - (20/12/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="80a56226bb8770870f352d7270f2f0ca">
+    <title>FC Köln vs Union Berlin - 02:30 PM GMT - (20/12/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="c152d0613547dc8dd966f91e9d5485ef">
+    <title>FC Augsburg vs Werder Bremen - 02:30 PM GMT - (20/12/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="cbc4505af9167cd112148567a369eea8">
+    <title>Hamburg vs Eintracht Frankfurt - 02:30 PM GMT - (20/12/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="25493f497a907b800e2f5b73ba20edd0">
+    <title>Desert Vipers vs Sharjah Warriorz - 02:30 PM GMT - (20/12/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="54079a3d27b41bde6c2af10c747a2536">
+    <title>Sheffield Utd vs Birmingham - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d9fcc5fde415ba3bcd07af1dfd2aae70">
+    <title>Riyadh Season WBC Boxing Grand Prix: WBC Boxing Grand Prix: Finals - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Fighting</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="4c7f652d7ed1ac551ec5562c022bfb95">
+    <title>Premier League: Wolves vs Brentford - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d8110539116ad58bc0509cb16917e89d">
+    <title>Championship: QPR vs Leicester - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d99d0d4f2fd44bc87d4d6ce4252e6b6e">
+    <title>Premier League: Manchester City vs West Ham - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="eeecf388a18d406be6008aea7e9c241c">
+    <title>Goal Rush - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="40e0efe28037c0efbad88114ebbb20d0">
+    <title>Derby County vs Portsmouth - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="47b940b5fc812e122c10fb6e852df2d4">
+    <title>Watford vs Stoke City - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="a6e22207bff8a5fbc27e0cbad86a2c26">
+    <title>Ipswich Town vs Sheffield Wednesday - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="cd5b41900c19df1f6492dfdb03e547a8">
+    <title>Bristol City vs Middlesbrough - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="80781fb23cbed022da0fe1b9cef36c8d">
+    <title>Doncaster Rovers vs Plymouth Argyle - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="cfd42b2f928fa64bfc57b6de64e65410">
+    <title>Brighton and Hove Albion vs Sunderland - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="93924f01f7f87e28aada79bd3ad19167">
+    <title>Hull City vs West Bromwich Albion - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="989e9340ffb66180004a1b43f3177667">
+    <title>Wolverhampton Wanderers vs Brentford - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="587ef627397a95898f3878f317ffc213">
+    <title>Harrogate Town vs Milton Keynes Dons - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d157ff4128b92f85978f75db9b0da84d">
+    <title>Mansfield Town vs Stockport County - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="0223fc9415697f6dda1355dfc2e579b3">
+    <title>FC United of Manchester vs Lancaster City - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="2294e1cb7da0f2bfb71ce7d8bc0431ff">
+    <title>Lincoln City vs Cardiff City - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="303ba2bec5b70cd62082007a5b04ebee">
+    <title>Swindon Town vs Crawley Town - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="96cb211d02f217bb9d711ae8a746f778">
+    <title>Wycombe Wanderers vs Bolton Wanderers - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="8ea12f7068cd0143347f1a9318cc293b">
+    <title>Shrewsbury Town vs Chesterfield - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="4915abf874fc7ab4d0f1f9314d0a8a3e">
+    <title>Port Vale vs Peterborough United - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="908fb8acbe18a7b9f6128ab8cd0e37b0">
+    <title>Fleetwood Town vs Gillingham - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="b6b48a5a0f600b7d90230a31e4d4e0c7">
+    <title>Leyton Orient vs Bradford City - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="7e366e3131334da732204e671f212f15">
+    <title>Exeter City vs Barnsley - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e118e3c95145f2d1dcd3eac3ccec5abb">
+    <title>Bournemouth vs Burnley - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="42d3fcfadac677ccc7fa18004024bd9b">
+    <title>Rotherham United vs Huddersfield Town - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="21e7dbf062cb7550551d58ef65428e3d">
+    <title>Oldham Athletic vs Tranmere Rovers - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="cac9dc0abcf10b0d0d6c365412341e59">
+    <title>Colchester United vs Newport County - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="7b49edfe51695457f702734fa96a66de">
+    <title>Charlton Athletic vs Oxford United - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="45fa6d94bf38b0270c244b3dae1dd50b">
+    <title>Saracens vs Exeter Chiefs - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="b09d74d2d3768e88f9294a4c2f1cab6b">
+    <title>Northampton Saints vs Sale Sharks - 03:00 PM GMT - (20/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e088121ad4cdcde18f89dc38b01d05fd">
+    <title>Huesca vs Racing de Santander - 03:15 PM GMT - (20/12/2025)</title>
+    <desc>07:15 AM PST / 08:15 AM MST / 10:15 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d13122d296469f806629347d21264be9">
+    <title>Levante vs Real Sociedad - 03:15 PM GMT - (20/12/2025)</title>
+    <desc>07:15 AM PST / 08:15 AM MST / 10:15 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="363c071e74d64e464d97e7111d7f53de">
+    <title>Segunda Liga: Feirense vs Pacos Ferreira - 03:30 PM GMT - (20/12/2025)</title>
+    <desc>07:30 AM PST / 08:30 AM MST / 10:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="237a1627890c161bc4e292c887223215">
+    <title>Segunda Liga: Vizela vs Academico Viseu - 03:30 PM GMT - (20/12/2025)</title>
+    <desc>07:30 AM PST / 08:30 AM MST / 10:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="c552465be87e8ecb1fccd0ab07e5239d">
+    <title>1860 Munich vs Verl - 03:30 PM GMT - (20/12/2025)</title>
+    <desc>07:30 AM PST / 08:30 AM MST / 10:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="5d663125830dda7cc6ac1bd8423ffd7a">
+    <title>Heracles Almelo vs Heerenveen - 03:30 PM GMT - (20/12/2025)</title>
+    <desc>07:30 AM PST / 08:30 AM MST / 10:30 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="8f4054f17e06c09a3232a0c55a3b3891">
+    <title>Texas A&amp;M Aggies vs Miami Hurricanes - 04:00 PM GMT - (20/12/2025)</title>
+    <desc>08:00 AM PST / 09:00 AM MST / 11:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="f34310303d4dc3fe113086b43ec21471">
+    <title>Next Gen ATP Finals: Day 4 Match 1 - 04:00 PM GMT - (20/12/2025)</title>
+    <desc>08:00 AM PST / 09:00 AM MST / 11:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="b5f2391e23a628632110ed3c7ac74f84">
+    <title>Volos vs Panetolikos - 04:00 PM GMT - (20/12/2025)</title>
+    <desc>08:00 AM PST / 09:00 AM MST / 11:00 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="f0b3bb14bde4f98f9a541f23d54ab959">
+    <title>Avellino vs Palermo - 04:15 PM GMT - (20/12/2025)</title>
+    <desc>08:15 AM PST / 09:15 AM MST / 11:15 AM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="b4a97a3454636af5f25e268bb10b0a8d">
+    <title>Callum Simpson vs Troy Williamson - 05:00 PM GMT - (20/12/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Fighting</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="8aa4138d1bd4e892b2e946b3b7ce227d">
+    <title>UW-River Falls Falcons vs Johns Hopkins Blue Jays - 05:00 PM GMT - (20/12/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="698be7341abd7c78077c8ed21514cdce">
+    <title>Süper Lig: Besiktas vs Rizespor - 05:00 PM GMT - (20/12/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="feec4fe82d3373036c8bde1373f9b46d">
+    <title>#10 Miami vs. #7 Texas A&amp;M (First Round) - 05:00 PM GMT - (20/12/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e8936cce7096866c0b7ce8b1275911f7">
+    <title>Lyon - La Duchère vs Toulouse - 05:00 PM GMT - (20/12/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="90d85d546f00da5c5e181cb35b1ffb72">
+    <title>Lazio vs Cremonese - 05:00 PM GMT - (20/12/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="de9e207ee5433180aab885f6e1b15f8c">
+    <title>Beşiktaş vs Rizespor - 05:00 PM GMT - (20/12/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="9cebf04920b4bb727409c26e278a2751">
+    <title>Leganes vs Sporting Gijon - 05:30 PM GMT - (20/12/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="6461ab35741654e4c68ff0ed67a6f23c">
+    <title>La Liga: Osasuna vs Alaves - 05:30 PM GMT - (20/12/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="13aaab82f8a8c3f48e3e123578d2d3ca">
+    <title>Tottenham Hotspur vs Liverpool - 05:30 PM GMT - (20/12/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="7ce12fc542b2d92d0a11de6f01ea9951">
+    <title>RB Leipzig vs Bayer Leverkusen - 05:30 PM GMT - (20/12/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="9fea7f08c59b9c5f74893dae0008a6a9">
+    <title>Osasuna vs Deportivo Alavés - 05:30 PM GMT - (20/12/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="1e1a5bf046c0f3bb2f80059c0befeac4">
+    <title>New York Rangers vs Philadelphia Flyers - 05:30 PM GMT - (20/12/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="4fc32bc71bcffec5f9ff9e28abb794ff">
+    <title>Washington Capitals vs Detroit Red Wings - 05:30 PM GMT - (20/12/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="0c59ff5d012520436796dd013b81ec7d">
+    <title>Excelsior vs PEC Zwolle - 05:45 PM GMT - (20/12/2025)</title>
+    <desc>09:45 AM PST / 10:45 AM MST / 12:45 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="1178c9678aaa5f36eb3ebce550541940">
+    <title>PNC Championship | PGA Tour - 06:00 PM GMT - (20/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">other</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="a451827f1534c0038863802f00ee8ce1">
+    <title>PNC Championship: Day 1 - 06:00 PM GMT - (20/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="f4b6cb22672ff1fbe1843dd842705eb1">
+    <title>Misfits Mania: Andrew Tate vs. Chase DeMoor - 06:00 PM GMT - (20/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Fighting</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e020ff746d14b0b0e1603db59a0c6340">
+    <title>Gil Vicente vs Rio Ave - 06:00 PM GMT - (20/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="84c3409f9276e3c56cac332c8cfc15be">
+    <title>Harlequins vs Bristol Bears - 06:00 PM GMT - (20/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="176dec43f13ec88019d402838f6ae839">
+    <title>Capitanes de Ciudad de México vs Long Island Nets - 06:00 PM GMT - (20/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="57774abefd182f4eb6282810162d3d9c">
+    <title>Pescara vs Reggiana - 06:30 PM GMT - (20/12/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="f9c753f7d90ac13ddf2ab2e335fa1bbf">
+    <title>Legacy Sports Matchroom: Richards vs Azeez - 07:00 PM GMT - (20/12/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Fighting</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="b362064688a778cf26ff79ede3c38eca">
+    <title>USL Super League: Carolina Ascent W vs DC Power W - 07:00 PM GMT - (20/12/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="b5a3e15ec6ca68a3fcd0af63399e8497">
+    <title>NEC Nijmegen vs Ajax - 07:00 PM GMT - (20/12/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="eb324408bb6cc44d3d8d616628fd7025">
+    <title>Holstein Kiel vs Dynamo Dresden - 07:30 PM GMT - (20/12/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="a04f25b288fac8a5dcac3143d6121d14">
+    <title>AEW: Saturday Night Collision - 07:30 PM GMT - (20/12/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Fighting</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="8b2e44965f0b2c0c73de9db0aeab38f2">
+    <title>Juventus vs Roma - 07:45 PM GMT - (20/12/2025)</title>
+    <desc>11:45 AM PST / 12:45 PM MST / 02:45 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="29b79f057d9771eb6658f3f313c7d115">
+    <title>Horse Racing: America&apos;s Day At the Races - 08:00 PM GMT - (20/12/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">other</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="7ba600be2fcfbc84787ba4906d66aca5">
+    <title>Vendée Fontenay Foot vs Paris SG - 08:00 PM GMT - (20/12/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="c4bd9f269eee95714f516dad3da02859">
+    <title>Leeds United vs Crystal Palace - 08:00 PM GMT - (20/12/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="7bf7c0f4b1e21bfb7a6149d58b04546c">
+    <title>Everton vs Arsenal - 08:00 PM GMT - (20/12/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="a146e229cbfc2d42b3145e56378fe5da">
+    <title>Las Palmas vs Cultural Leonesa - 08:00 PM GMT - (20/12/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="bc5534ca454f6dacda8e7bcca48b4acd">
+    <title>Real Madrid vs Sevilla - 08:00 PM GMT - (20/12/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="a879d60f7ab2cd8aa45388bc03f84b33">
+    <title>Minnesota Wild vs Edmonton Oilers - 08:00 PM GMT - (20/12/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="17a6dfa3baa0e46efcb59fbbe7e23936">
+    <title>NAC Breda vs SC Telstar - 08:00 PM GMT - (20/12/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d060e54d8168e202d8c92f4761d0b387">
+    <title>Ottawa Senators vs Chicago Blackhawks - 08:00 PM GMT - (20/12/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="0e5cf32ba0d1e5dbb9a9a058b5915c26">
+    <title>Estrela Amadora vs Moreirense - 08:30 PM GMT - (20/12/2025)</title>
+    <desc>12:30 PM PST / 01:30 PM MST / 03:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="4a06cbc927d22c10ed5710eadf855ea7">
+    <title>Oklahoma City Blue vs Capital City Go-Go - 08:30 PM GMT - (20/12/2025)</title>
+    <desc>12:30 PM PST / 01:30 PM MST / 03:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="04de551d69983c600ec7172a6b32e2e4">
+    <title>Ole Miss vs Tulane - 08:30 PM GMT - (20/12/2025)</title>
+    <desc>12:30 PM PST / 01:30 PM MST / 03:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="88494adbc3da6d8f7407ebb01075d690">
+    <title>West Indies tour of New Zealand: New Zealand vs West Indies - 10:00 PM GMT - (20/12/2025)</title>
+    <desc>02:00 PM PST / 03:00 PM MST / 05:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="f5dd8c88d0a816dc292d2f71889d522e">
+    <title>Buffalo Sabres vs New York Islanders - 10:00 PM GMT - (20/12/2025)</title>
+    <desc>02:00 PM PST / 03:00 PM MST / 05:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="fe92c4c3dbb202e7921fae175a17e878">
+    <title>Washington Commanders vs Philadelphia Eagles - 10:00 PM GMT - (20/12/2025)</title>
+    <desc>02:00 PM PST / 03:00 PM MST / 05:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d5f496fbeaa44b9ee3a269969afa3b00">
+    <title>Denver Nuggets vs Houston Rockets - 10:00 PM GMT - (20/12/2025)</title>
+    <desc>02:00 PM PST / 03:00 PM MST / 05:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="8b4dd91784f4ab260d72f4a0e7fdac7c">
+    <title>BKFC Fight Night Mohegan Sun: Prelims - 11:00 PM GMT - (20/12/2025)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">other</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="ef44df17046817f3cff128cb6ace778f">
+    <title>Florida Panthers vs St. Louis Blues - 11:00 PM GMT - (20/12/2025)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="b730e2d23ffc0606cb57a1186f538d08">
+    <title>Windy City Bulls vs Memphis Hustle - 11:00 PM GMT - (20/12/2025)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="51c4b81422ae20a06618484190f0c041">
+    <title>Australia vs. England - 11:30 PM GMT - (20/12/2025)</title>
+    <desc>03:30 PM PST / 04:30 PM MST / 06:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="8f7f21a55b4fed3f3de151545524c5d3">
+    <title>Nashville Predators vs Toronto Maple Leafs - 12:00 AM GMT - (21/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="890226fc041ee6ac00d78f5eabb24474">
+    <title>Tampa Bay Lightning vs Carolina Hurricanes - 12:00 AM GMT - (21/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="bf44e80cd86f7f6e05effe6171d851ab">
+    <title>Montreal Canadiens vs Pittsburgh Penguins - 12:00 AM GMT - (21/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="12f2a378e10328295a2929f02bb355d6">
+    <title>Boston Bruins vs Vancouver Canucks - 12:00 AM GMT - (21/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="64ad54f24c2f7360adef8675a4b1ed6e">
+    <title>New Orleans Pelicans vs Indiana Pacers - 12:00 AM GMT - (21/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="1eed5036563dc72c703b9513eaf093dd">
+    <title>Toronto Raptors vs Boston Celtics - 12:00 AM GMT - (21/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="1616154b3ac2791717e6147a4ca1e64d">
+    <title>Philadelphia 76ers vs Dallas Mavericks - 12:00 AM GMT - (21/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="375730ab1a8cc1f19257a3d0864838b8">
+    <title>#12 JMU vs. #5 Oregon (First Round) - 12:30 AM GMT - (21/12/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="9d6eb84c835bef0247740a84c5e73f47">
+    <title>Detroit Pistons vs Charlotte Hornets - 12:30 AM GMT - (21/12/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="6a560d062b83ef6718fb9be3f424e716">
+    <title>Memphis Grizzlies vs Washington Wizards - 01:00 AM GMT - (21/12/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="7942b7aa30d6211283015b04fe44caf2">
+    <title>Salita Promotions: Curry vs. Scott 2 - 01:00 AM GMT - (21/12/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Fighting</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="f1ac19b4f11f73e40e76de1dedd450d7">
+    <title>Chicago Bears vs Green Bay Packers - 01:20 AM GMT - (21/12/2025)</title>
+    <desc>05:20 PM PST / 06:20 PM MST / 08:20 PM EST - (12/20/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="91662cc00aa9a5068f90c373b729475a">
+    <title>Golden State Warriors vs Phoenix Suns - 01:30 AM GMT - (21/12/2025)</title>
+    <desc>05:30 PM PST / 06:30 PM MST / 08:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="c7ebd48f75bfa4677fd11a95e1367903">
+    <title>Valley Suns vs Motor City Cruise - 01:30 AM GMT - (21/12/2025)</title>
+    <desc>05:30 PM PST / 06:30 PM MST / 08:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d01822a2d0d5809f6802a0384859b36c">
+    <title>MMA: CAGE FURY FC 149 - 02:00 AM GMT - (21/12/2025)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Fighting</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="3832b8d33401028754b41934e773d52b">
+    <title>Utah Jazz vs Orlando Magic - 02:30 AM GMT - (21/12/2025)</title>
+    <desc>06:30 PM PST / 07:30 PM MST / 09:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="3c675ca6231a9825c6279226586fbfa1">
+    <title>San Jose Sharks vs Seattle Kraken - 03:00 AM GMT - (21/12/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="662d62e0a72dce9b364297e0ad9437a8">
+    <title>Calgary Flames vs Vegas Golden Knights - 03:00 AM GMT - (21/12/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="c46b0bd7b3e31dedadb9d9b61cde6c77">
+    <title>Anaheim Ducks vs Columbus Blue Jackets - 03:00 AM GMT - (21/12/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="c62d5407b315bd4cd6071d3aa5ffe6f7">
+    <title>Sacramento Kings vs Portland Trail Blazers - 03:00 AM GMT - (21/12/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="4382e6ecc63e152143741e4e87a2d901">
+    <title>Los Angeles Clippers vs Los Angeles Lakers - 03:30 AM GMT - (21/12/2025)</title>
+    <desc>07:30 PM PST / 08:30 PM MST / 10:30 PM EST - (12/20/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="2836132236d2c852b5ce5e1ec1052333">
+    <title>Gran Turismo World Series: Fukuoka | Nations Cup Show - 06:30 AM GMT - (21/12/2025)</title>
+    <desc>10:30 PM PST / 11:30 PM MST / 01:30 AM EST - (12/21/2025)</desc>
+    <category lang="en">Motor Sports</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="70aa9c1710c6a2be86f61e5ba4eacd44">
+    <title>Melbourne Renegades vs Hobart Hurricanes - 08:15 AM GMT - (21/12/2025)</title>
+    <desc>12:15 AM PST / 01:15 AM MST / 03:15 AM EST - (12/21/2025)</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="7845b1ea760485e6a33a4a522a1ccab0">
+    <title>Dubai Capitals vs Gulf Giants - 10:00 AM GMT - (21/12/2025)</title>
+    <desc>02:00 AM PST / 03:00 AM MST / 05:00 AM EST - (12/21/2025)</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="c4e38ff164e48265d7a62acd0c631ddf">
+    <title>Cagliari vs Pisa - 11:30 AM GMT - (21/12/2025)</title>
+    <desc>03:30 AM PST / 04:30 AM MST / 06:30 AM EST - (12/21/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="966cca13f7f812f57357858e3b84fe8d">
+    <title>World Championships: Day Eleven - 12:30 PM GMT - (21/12/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST - (12/21/2025)</desc>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e6a7686a82e05806377d65580c505ba7">
+    <title>Girona vs Atlético Madrid - 01:00 PM GMT - (21/12/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST - (12/21/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="a50489fee24612ddfa3151df68ce7e59">
+    <title>Sassuolo vs Torino - 02:00 PM GMT - (21/12/2025)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST - (12/21/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="917dc142254ff01798a998f1b5b88718">
+    <title>Mainz vs St Pauli - 02:30 PM GMT - (21/12/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST - (12/21/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="8a6efad29384058142bd51e926401849">
+    <title>Desert Vipers vs MI Emirates - 02:30 PM GMT - (21/12/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST - (12/21/2025)</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="39b2ca6b76a98b8307d6266e58e10754">
+    <title>PREM Rugby: Newcastle Falcons vs Bath Rugby - 03:00 PM GMT - (21/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/21/2025)</desc>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="eb4ea726b74378be31ebfe6c711cbe00">
+    <title>Manchester Basketball vs Surrey 89ers - 03:00 PM GMT - (21/12/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST - (12/21/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e79a15b8f929edc524f49e63db807f95">
+    <title>Villarreal vs Barcelona - 03:15 PM GMT - (21/12/2025)</title>
+    <desc>07:15 AM PST / 08:15 AM MST / 10:15 AM EST - (12/21/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e6dab0737a41e0bced85fbac8e7fb2df">
+    <title>FC Heidenheim vs Bayern Munich - 04:30 PM GMT - (21/12/2025)</title>
+    <desc>08:30 AM PST / 09:30 AM MST / 11:30 AM EST - (12/21/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="3579bcd2ba496cb3db9ad541c7322c33">
+    <title>Aston Villa vs Manchester United - 04:30 PM GMT - (21/12/2025)</title>
+    <desc>08:30 AM PST / 09:30 AM MST / 11:30 AM EST - (12/21/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="bccabf4ff25a0f2ac1c7154ffea24489">
+    <title>Next Gen ATP Finals: Day 5 - 05:00 PM GMT - (21/12/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e9dff10b837e8ee201a345d0a76196af">
+    <title>Fiorentina vs Udinese - 05:00 PM GMT - (21/12/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="53bd984cf878aa6292fa7c9ba83310f4">
+    <title>Caledonia Gladiators vs London Lions - 05:00 PM GMT - (21/12/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="703bbaa593e0f2d9a3c612b36af10413">
+    <title>PNC Championship: Day 2 - 05:30 PM GMT - (21/12/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST - (12/21/2025)</desc>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="7b37df74a5b3b029ab8aa5a50423d44c">
+    <title>Elche vs Rayo Vallecano - 05:30 PM GMT - (21/12/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST - (12/21/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="f500f39b02ba640774c013304c40b0eb">
+    <title>NBA G League: TBA vs TBA - 06:00 PM GMT - (21/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="a494b9c47f98c431c57e633fc6fd468e">
+    <title>Detroit Red Wings vs Washington Capitals - 06:00 PM GMT - (21/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="af774df10b37530c06741383c2c1841e">
+    <title>New Orleans Saints vs New York Jets - 06:00 PM GMT - (21/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="eac8ca338c3d28a62f607e8bdad6609a">
+    <title>Carolina Panthers vs Tampa Bay Buccaneers - 06:00 PM GMT - (21/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="37713168ea658da978db8d6f21df8734">
+    <title>New York Giants vs Minnesota Vikings - 06:00 PM GMT - (21/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="77f550d890056eeb784463910dc1c9dc">
+    <title>Dallas Cowboys vs Los Angeles Chargers - 06:00 PM GMT - (21/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="64d8b1e2044bea9775ac6c68e2a0ffe4">
+    <title>Tennessee Titans vs Kansas City Chiefs - 06:00 PM GMT - (21/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="03375a733f482bf79bb4275ae013c6b9">
+    <title>Cleveland Browns vs Buffalo Bills - 06:00 PM GMT - (21/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="66214179517fb94655eb75d0e43fdcf0">
+    <title>Miami Dolphins vs Cincinnati Bengals - 06:00 PM GMT - (21/12/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="4d29fb7e51522137268a7434e8a89bc8">
+    <title>Genoa vs Atalanta - 07:45 PM GMT - (21/12/2025)</title>
+    <desc>11:45 AM PST / 12:45 PM MST / 02:45 PM EST - (12/21/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="dbc78be481919addeb4afb6d9e4be38e">
+    <title>Real Betis vs Getafe - 08:00 PM GMT - (21/12/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="695d5a55c977479672670793ed7acac1">
+    <title>Atlanta Hawks vs Chicago Bulls - 08:30 PM GMT - (21/12/2025)</title>
+    <desc>12:30 PM PST / 01:30 PM MST / 03:30 PM EST - (12/21/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="ac5102c76865d4da3699182c76699c9f">
+    <title>Arizona Cardinals vs Atlanta Falcons - 09:05 PM GMT - (21/12/2025)</title>
+    <desc>01:05 PM PST / 02:05 PM MST / 04:05 PM EST - (12/21/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="2629a389b4629fd007f58c4b7801c3fc">
+    <title>Denver Broncos vs Jacksonville Jaguars - 09:05 PM GMT - (21/12/2025)</title>
+    <desc>01:05 PM PST / 02:05 PM MST / 04:05 PM EST - (12/21/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e0fb50d53610fa17c0e916c19a13ab63">
+    <title>Detroit Lions vs Pittsburgh Steelers - 09:25 PM GMT - (21/12/2025)</title>
+    <desc>01:25 PM PST / 02:25 PM MST / 04:25 PM EST - (12/21/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="aab2c4fc5f55fac532555b0b704e680c">
+    <title>Houston Texans vs Las Vegas Raiders - 09:25 PM GMT - (21/12/2025)</title>
+    <desc>01:25 PM PST / 02:25 PM MST / 04:25 PM EST - (12/21/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="3bc67aa4fd650691d6cacafce6972e97">
+    <title>Horse Racing: America&apos;s Day At the Races - 09:30 PM GMT - (21/12/2025)</title>
+    <desc>01:30 PM PST / 02:30 PM MST / 04:30 PM EST - (12/21/2025)</desc>
+    <category lang="en">other</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="34155cb729a782e036147e55cb1aa8c1">
+    <title>West Indies tour of New Zealand: New Zealand vs West Indies - 10:00 PM GMT - (21/12/2025)</title>
+    <desc>02:00 PM PST / 03:00 PM MST / 05:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d790c400f9673384b487568535060190">
+    <title>Minnesota Wild vs Colorado Avalanche - 11:00 PM GMT - (21/12/2025)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="9309e9a35940ae72e8c32ccda1116672">
+    <title>South Bay Lakers vs Wisconsin Herd - 11:00 PM GMT - (21/12/2025)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="b492bbe0a4875a9956c8d835607d04de">
+    <title>New York Knicks vs Miami Heat - 11:00 PM GMT - (21/12/2025)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="e21c2876278771e4dc01a92ae7520d99">
+    <title>Brooklyn Nets vs Toronto Raptors - 11:00 PM GMT - (21/12/2025)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="6e879f28deb949a7063e504140135c62">
+    <title>NHL: Montreal Canadiens vs Pittsburgh Penguins - 12:00 AM GMT - (22/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="3ea2a3b792f7cecc06ca933b4c8bfbf9">
+    <title>NHL: Ottawa Senators vs Boston Bruins - 12:00 AM GMT - (22/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="0f420d075869b4780b7234f62544ff0d">
+    <title>NHL: Buffalo Sabres vs New Jersey Devils - 12:00 AM GMT - (22/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="10c0910e1ca0b1174654ebefac3f0731">
+    <title>NHL: New York Rangers vs Nashville Predators - 12:00 AM GMT - (22/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="4a84487bcce95382d622aced8dcac7ec">
+    <title>NHL: Toronto Maple Leafs vs Dallas Stars - 12:00 AM GMT - (22/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="1eb5267c1969dd3e826250ad7ce7ffcd">
+    <title>NHL: Winnipeg Jets vs Utah Mammoth - 12:00 AM GMT - (22/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="3c4f9c5b8546cd130870176378526a65">
+    <title>NBA: Milwaukee Bucks vs Minnesota Timberwolves - 12:00 AM GMT - (22/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="69df072ac6a79355342105a7c5532bcd">
+    <title>NBA: San Antonio Spurs vs Washington Wizards - 12:00 AM GMT - (22/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="3edb8d0c1a19d398b3ffa790a42bdf67">
+    <title>NHL: Vegas Golden Knights vs Edmonton Oilers - 01:00 AM GMT - (22/12/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="2af3f32edb29b3d3f31d2803e636842a">
+    <title>New England Patriots vs. Baltimore Ravens - 01:20 AM GMT - (22/12/2025)</title>
+    <desc>05:20 PM PST / 06:20 PM MST / 08:20 PM EST - (12/21/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="05c0582ecccfaf964fc296b2277fa315">
+    <title>NBA G League: Delaware Blue Coats vs Texas Legends - 01:30 AM GMT - (22/12/2025)</title>
+    <desc>05:30 PM PST / 06:30 PM MST / 08:30 PM EST - (12/21/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="1000bfcb551644379b4338510c548955">
+    <title>NBA: Houston Rockets vs Sacramento Kings - 03:00 AM GMT - (22/12/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST - (12/21/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d36fc0218757784ee1292d5ac01e208b">
+    <title>Men&apos;s Big Bash League: Sydney Thunder vs Brisbane Heat - 08:15 AM GMT - (22/12/2025)</title>
+    <desc>12:15 AM PST / 01:15 AM MST / 03:15 AM EST - (12/22/2025)</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="71f20fcfba182e355e4fbc295dee9cbe">
+    <title>World Championships: Day Twelve - 12:30 PM GMT - (22/12/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST - (12/22/2025)</desc>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="34dd2bffdc3c013a323428192ad4e61c">
+    <title>IL T20: Knight Riders vs Warriorz - 02:30 PM GMT - (22/12/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST - (12/22/2025)</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="f512117cd1e08d80d6b7fad392896ed2">
+    <title>NBA G League: Motor City Cruise vs College Park Skyhawks - 04:00 PM GMT - (22/12/2025)</title>
+    <desc>08:00 AM PST / 09:00 AM MST / 11:00 AM EST - (12/22/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="3a7e9f7ccf7326d431ab16f2ca1a785a">
+    <title>NBA G League: Oklahoma City Blue vs Long Island Nets - 06:30 PM GMT - (22/12/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST - (12/22/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="6adb11edf8cd6de85c3f25492055daf9">
+    <title>Fulham vs. Nottingham Forest - 08:00 PM GMT - (22/12/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST - (12/22/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="14e51ce137719927dcc02c027680ed96">
+    <title>Athletic Club vs. Espanyol - 08:00 PM GMT - (22/12/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST - (12/22/2025)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="f18aeb1d330e3705814c56cfda4bb5fe">
+    <title>NBA G League: Mexico City Capitanes vs Osceola Magic - 09:00 PM GMT - (22/12/2025)</title>
+    <desc>01:00 PM PST / 02:00 PM MST / 04:00 PM EST - (12/22/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="a23e8ad3c93131aeddecd58ce5ab3c8a">
+    <title>NBA G League: TBA vs TBA - 11:30 PM GMT - (22/12/2025)</title>
+    <desc>03:30 PM PST / 04:30 PM MST / 06:30 PM EST - (12/22/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="4708150eb9f46bf57dc66a40d6920dd8">
+    <title>NHL: St. Louis Blues vs Tampa Bay Lightning - 12:00 AM GMT - (23/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/22/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="3e00b90baab0a06ec797be25973bd161">
+    <title>NBA: Charlotte Hornets vs Cleveland Cavaliers - 12:00 AM GMT - (23/12/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (12/22/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="a75817ba3458d9d12e7649ce70f6ee9f">
+    <title>NHL: Vancouver Canucks vs Philadelphia Flyers - 12:30 AM GMT - (23/12/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST - (12/22/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="fb7b70378d786967bbcf24751fc3d211">
+    <title>NBA: Indiana Pacers vs Boston Celtics - 12:30 AM GMT - (23/12/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST - (12/22/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="cb5e3426cce75198beb71479992ab820">
+    <title>NBA: Dallas Mavericks vs New Orleans Pelicans - 01:00 AM GMT - (23/12/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST - (12/22/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="1a22ae14ebfb739990a3cb785a90b6a4">
+    <title>San Francisco 49ers vs. Indianapolis Colts - 01:15 AM GMT - (23/12/2025)</title>
+    <desc>05:15 PM PST / 06:15 PM MST / 08:15 PM EST - (12/22/2025)</desc>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="f4a98d904b505c48af590e735e4d9607">
+    <title>NBA: Utah Jazz vs Denver Nuggets - 02:00 AM GMT - (23/12/2025)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST - (12/22/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d95269bcd5a4c3b7053951ca47c7c09f">
+    <title>Cambodia tour of Indonesia: Indonesia vs Cambodia - 02:30 AM GMT - (23/12/2025)</title>
+    <desc>06:30 PM PST / 07:30 PM MST / 09:30 PM EST - (12/22/2025)</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="5187221028a0cd589ca9e05953f38897">
+    <title>NBA: Memphis Grizzlies vs Oklahoma City Thunder - 02:30 AM GMT - (23/12/2025)</title>
+    <desc>06:30 PM PST / 07:30 PM MST / 09:30 PM EST - (12/22/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d5665cdb607ac0621752a377c729676a">
+    <title>NHL: Columbus Blue Jackets vs Los Angeles Kings - 03:00 AM GMT - (23/12/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST - (12/22/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="c5b2532206e177b94f195e2ee1e5e91a">
+    <title>NBA: Detroit Pistons vs Portland Trail Blazers - 03:00 AM GMT - (23/12/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST - (12/22/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="64e065b9a1051ccd91495985d2f120b7">
+    <title>NBA: Orlando Magic vs Golden State Warriors - 03:00 AM GMT - (23/12/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST - (12/22/2025)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="51733b66dc5e5d9e4ebe0ed75bf76e3d">
+    <title>NHL: Seattle Kraken vs Anaheim Ducks - 03:00 AM GMT - (23/12/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST - (12/22/2025)</desc>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="d3878c3746c03744493d012355f8676d">
+    <title>Myanmar tour of Bhutan: Bhutan vs Myanmar - 04:00 AM GMT - (23/12/2025)</title>
+    <desc>08:00 PM PST / 09:00 PM MST / 11:00 PM EST - (12/22/2025)</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="c8f0322892d4e1c5014df29327a1f5d5">
+    <title>Men&apos;s Big Bash League: Adelaide Strikers vs Melbourne Stars - 08:15 AM GMT - (23/12/2025)</title>
+    <desc>12:15 AM PST / 01:15 AM MST / 03:15 AM EST - (12/23/2025)</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="350dfc270e182c9a7f78e2af91114979">
+    <title>THE RING V: NIGHT OF THE SAMURAI: Grand Arrival - 12:00 PM GMT - (23/12/2025)</title>
+    <desc>04:00 AM PST / 05:00 AM MST / 07:00 AM EST - (12/23/2025)</desc>
+    <category lang="en">Fighting</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="4f84bfc48b6d2ec01c5c01a15b5df824">
+    <title>World Championships: Day Thirteen - 12:30 PM GMT - (23/12/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST - (12/23/2025)</desc>
+    <category lang="en">Darts</category>
+  </programme>
+  <programme start="20251220133422 +0000" stop="20251222133422 +0000" channel="c2923788da4871c4ea6b93951a905318">
+    <title>UFC 324: Gaethje vs. Pimblett - 12:00 AM GMT - (25/01/2026)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST - (01/24/2026)</desc>
+    <category lang="en">Fighting</category>
+  </programme>
+</tv>
